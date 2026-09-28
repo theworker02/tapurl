@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/tapurl",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tap list/url set operations for shell-friendly data wrangling.",
+  "bin": {
+    "tapurl": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/tapurl.git"
+  },
+  "homepage": "https://theworker02.github.io/tapurl/",
+  "keywords": [
+    "tap",
+    "url",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
